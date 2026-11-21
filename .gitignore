@@ -1,0 +1,6 @@
+secrets/
+historical_data/
+venv/
+__pycache__/
+*.csv
+*.zip
